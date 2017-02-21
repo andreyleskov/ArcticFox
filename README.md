@@ -85,11 +85,11 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
 
 ## Screen Menu
 
-![](http://i.imgur.com/6jddZL9.png) ![](http://i.imgur.com/3fRgkGN.png) ![](http://i.imgur.com/FmVjNro.png) ![](http://i.imgur.com/2UYldpC.png)
+![](http://i.imgur.com/6jddZL9.png) ![](http://i.imgur.com/3fRgkGN.png) ![](http://i.imgur.com/FmVjNro.png) ![](http://i.imgur.com/2UYldpC.png) ![](http://imgur.com/LnKzScS)
 
 * **Dim** - time to dim display;
 * **Wake <>** - waking mod by pressing regulatory buttons;
-* **Charge** - show additional information on charging screen, battery voltage(s) and board temperature;
+* **Charge** - show additional information on charging screen, battery voltage(s) and board temperature. Battery voltage order is shown on picture. Left voltage number is for battery on the left behind the screen, second is right behind the screen and third is in attachable case;
 * **Logo** - show logo on main screen;
 * **Clock** - show clock on screen:
      - Type - analog or digital;
