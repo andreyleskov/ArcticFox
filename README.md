@@ -85,7 +85,7 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
 
 ## Screen Menu
 
-![](http://i.imgur.com/6jddZL9.png) ![](http://i.imgur.com/3fRgkGN.png) ![](http://i.imgur.com/FmVjNro.png) ![](http://i.imgur.com/2UYldpC.png) ![](http://imgur.com/LnKzScS)
+![](http://i.imgur.com/6jddZL9.png) ![](http://i.imgur.com/3fRgkGN.png) ![](http://i.imgur.com/FmVjNro.png) ![](http://i.imgur.com/2UYldpC.png) ![](http://i.imgur.com/LnKzScS.jpg)
 
 * **Dim** - time to dim display;
 * **Wake <>** - waking mod by pressing regulatory buttons;
